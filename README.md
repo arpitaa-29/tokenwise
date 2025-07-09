@@ -2,7 +2,18 @@
 
 TokenWise is a real-time analytics platform that monitors and analyzes top wallet activity for a specific Solana token. It helps surface powerful insights like whale movements, protocol usage, and market direction — all through a clean, filterable dashboard.
 
+
+
 ---
+
+# REPOSITORIES
+
+-**Backend**- https://github.com/arpitaa-29/tokenwise-backend
+
+-**Frontend**-https://github.com/arpitaa-29/tokenwise-dashboard
+
+---
+
 
 ## 🚀 Features
 
@@ -55,8 +66,9 @@ TokenWise is a real-time analytics platform that monitors and analyzes top walle
 ### 🛠 Backend
 
 ```bash
-cd backend
-./mvnw spring-boot:run
+  cd backend
+ ./mvnw spring-boot:run
+
 Environment Variables:
 
 HELIUS_API_KEY
@@ -74,15 +86,15 @@ Start ngrok: ngrok http 8080
 Register webhook with Helius using the public URL
 
 💻 Frontend
-bash
-Copy
-Edit
-cd frontend
+'''bash
+cd tokenwise-dashboard
 npm install
 npm start
+
+
 Environment:
 
-REACT_APP_API_URL=http://localhost:8080
+REACT_APP_API_URL=http://localhost:3000
 
 🧪 Sample Output Data
 Sample exported files:
