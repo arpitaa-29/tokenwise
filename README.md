@@ -130,12 +130,12 @@ Key Sections:
 🌐 Full deployment on Vercel + Render
 
 🙋‍♀️ About Me
-I'm Arpita, a backend engineer passionate about blockchain and real-time systems. This project reflects my love for clean architecture, scalable systems, and user-focused dashboards.
+I'm Arpita, a backend engineer passionate about blockchain and real-time systems. This project reflects my love for clean architecture,
+scalable systems, and user-focused dashboards.
 
 📬 Contact
 Feel free to connect for feedback or questions!
 
 
 
----
 
